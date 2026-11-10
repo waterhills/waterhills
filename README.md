@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Shuigaoshan Liu
 
-I am a Master's student at [University Name], China.
+I am a Master's student at UESTC, China.
 
 ## Research Interests
 - Computer Vision
